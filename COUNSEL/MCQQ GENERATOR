@@ -1,0 +1,20 @@
+	<form id="quiz-form">
+  <h2>Quiz Title</h2>
+  <div class="question">
+    <h3>Question 1</h3>
+    <input type="radio" name="q1" value="a"> Option A<br>
+    <input type="radio" name="q1" value="b"> Option B<br>
+    <input type="radio" name="q1" value="c"> Option C<br>
+    <input type="radio" name="q1" value="d"> Option D<br>
+  </div>
+  
+  <div class="question">
+    <h3>Question 2</h3>
+    <input type="radio" name="q2" value="a"> Option A<br>
+    <input type="radio" name="q2" value="b"> Option B<br>
+    <input type="radio" name="q2" value="c"> Option C<br>
+    <input type="radio" name="q2" value="d"> Option D<br>
+  </div>
+  
+  <button type="submit">Submit</button>
+</form>

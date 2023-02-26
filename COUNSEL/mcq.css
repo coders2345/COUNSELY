@@ -1,0 +1,10 @@
+button {
+  display: block; /* Ensures that the button takes up the full width of its parent element */
+  margin: 0 auto; /* Centers the button horizontally by setting equal margins on both sides */
+  background-color: #2d91a6;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
